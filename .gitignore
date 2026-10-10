@@ -1,0 +1,13 @@
+*.blend
+*.blend1
+*.blend2
+*.py
+*.pyc
+*.log
+*.err
+__pycache__/
+_整理记录/
+_制作脚本/
+_排版检查/
+Thumbs.db
+.DS_Store
